@@ -1,36 +1,23 @@
 import React from "react";
-import HeroImage from "../assets/jaymar.png";
-import { MdOutlineKeyboardArrowRight } from "react-icons/md";
-import { Link } from "react-scroll";
+import HeroImage from "../assets/jessie.png";
+
 
 const Home = () => {
   return (
     <div
       name="home"
-      className="h-screen w-full bg-gradient-to-b from-black via-black to-gray-800"
+      className="h-screen w-full bg-white text-black"
     >
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
         <div className="flex flex-col justify-center h-full">
-          <h2 className="text-4xl sm:text-7xl font-bold text-white">
-           Hi! I'm Jaymar Calising 
+          <h2 className="text-4xl sm:text-7xl font-bold text-black">
+           Hi! I'm Jessie A. Consigna
           </h2>
-          <p className="text-gray-500 py-4 max-w-md">
-           An aspiring front-end developer with no kowledge in programming :).
+          <p className="text-black-500 py-4 max-w-md">
+          A Computer Science Student of North Eastern Mindanao State University.
           </p>
 
-          <div>
-            <Link
-              to="portfolio"
-              smooth
-              duration={500}
-              className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer"
-            >
-             About
-              <span className="group-hover:rotate-90 duration-300">
-                <MdOutlineKeyboardArrowRight size={25} className="ml-1" />
-              </span>
-            </Link>
-          </div>
+          
         </div>
 
         <div>

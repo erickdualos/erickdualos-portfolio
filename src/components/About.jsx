@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div
       name="about"
-      className="w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white"
+      className="w-full h-screen bg-white text-black"
     >
       <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center ">
         <div className="pb-8">
@@ -14,10 +14,13 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-10">
-        Hi! My name is Jaymar N. Calising from Marihatag Surigao Del Sur, studied at North Eastern Mindanao State University in Lianga Campus. I studied
+        Hi! My name is Jessie Consigna from Liatemco, Lianga Surigao Del Sur, studied at North Eastern Mindanao State University in Lianga Campus. I studied
           Bachelor Sicence in Computer Science 4rth year college in this school year 2022-2023.  This is my project in Human Interaction which we make a website portfolio using reactjs and nodejs.
         </p>
       </div>
+      <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center ">
+    
+        </div>
     </div>
   );
 };

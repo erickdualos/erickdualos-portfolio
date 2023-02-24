@@ -12,7 +12,7 @@ const SocialLinks = () => {
           Facebook <FaFacebook size={30} />
         </>
       ),
-      href: "https://web.facebook.com/jaymatt.calisingsteffanina",
+      href: "https://web.facebook.com/javila.cons",
       style: "rounded-tr-md",
     },
     {
@@ -22,7 +22,7 @@ const SocialLinks = () => {
           GitHub <FaGithub size={30} />
         </>
       ),
-      href: "https://github.com/bscsjaymar21",
+      href: "https://github.com/consignajessie21",
     },
     {
       id: 3,
@@ -31,17 +31,7 @@ const SocialLinks = () => {
           Mail <HiOutlineMail size={30} />
         </>
       ),
-      href: "mailto:jaymarncalising@gmail.com",
-    },
-    {
-      id: 4,
-      child: (
-        <>
-          Instagram <FaInstagram size={30} />
-        </>
-      ),
-      href: "https://www.instagram.com/jaymarcalising",
-      style: "rounded-tr-md"
+      href: "mailto:conzignajessie21@gmail.com",
     },
   ];
 
