@@ -12,7 +12,7 @@ const SocialLinks = () => {
           Facebook <FaFacebook size={30} />
         </>
       ),
-      href: "https://web.facebook.com/javila.cons",
+      href: "https://www.facebook.com/profile.php?id=100069445070186",
       style: "rounded-tr-md",
     },
     {
@@ -22,7 +22,7 @@ const SocialLinks = () => {
           GitHub <FaGithub size={30} />
         </>
       ),
-      href: "https://github.com/consignajessie21",
+      href: "https://github.com/erickdualos",
     },
     {
       id: 3,
@@ -31,7 +31,7 @@ const SocialLinks = () => {
           Mail <HiOutlineMail size={30} />
         </>
       ),
-      href: "mailto:conzignajessie21@gmail.com",
+      href: "mailto:ekoydualos10192000@gmail.com",
     },
   ];
 
