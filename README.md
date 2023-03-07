@@ -1,2 +1,2 @@
-# bscsjaymar21.github.io
+# erickdualos-portfolio
 My Portfolio
